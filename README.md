@@ -1,1 +1,1 @@
-# fullstackopen-ecercises
+# fullstackopen-exercises
